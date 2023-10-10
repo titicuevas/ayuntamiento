@@ -1,0 +1,477 @@
+# <!=Copyright (C) 2022 WPClever
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCpet 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpcpet\n"
+"POT-Creation-Date: 2022-09-30 08:15:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: node-wp-i18n 1.2.5\n"
+
+#: wpcpet/404.php:17
+msgid "404"
+msgstr ""
+
+#: wpcpet/404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: wpcpet/404.php:22
+msgid "Go to Homepage"
+msgstr ""
+
+#: wpcpet/comments.php:21
+msgid "Post Comments"
+msgstr ""
+
+#: wpcpet/comments.php:41
+msgid "Comment Navigation Above"
+msgstr ""
+
+#: wpcpet/comments.php:42 wpcpet/comments.php:64
+msgid "Comment navigation"
+msgstr ""
+
+#: wpcpet/comments.php:43 wpcpet/comments.php:65
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: wpcpet/comments.php:44 wpcpet/comments.php:66
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: wpcpet/comments.php:63
+msgid "Comment Navigation Below"
+msgstr ""
+
+#: wpcpet/comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: wpcpet/comments.php:85
+msgid "Submit now"
+msgstr ""
+
+#: wpcpet/comments.php:87
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: wpcpet/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: wpcpet/content-none.php:23
+#. translators: 1: URL
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: wpcpet/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: wpcpet/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:95
+msgid "Primary Menu"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:96
+msgid "Handheld Menu"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:201
+msgid "Small"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:206
+msgid "Normal"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:211
+msgid "Medium"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:216
+msgid "Large"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:221
+msgid "Huge"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:246
+msgid "Sidebar"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:252
+msgid "Sidebar Shop"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:267
+#. translators: 1: column number
+msgid "Footer Column %1$d"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:270
+#. translators: 1: column number
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:273
+#. translators: 1: row number, 2: column number
+msgid "Footer Row %1$d - Column %2$d"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:276
+#. translators: 1: column number, 2: row number
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:348
+msgid "Expand child menu"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:349
+msgid "Collapse child menu"
+msgstr ""
+
+#: wpcpet/inc/class-wpcpet.php:472
+msgid "Post Navigation"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:131
+msgid "Background"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:135
+msgid "Header"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:179
+msgid "Typography"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:200
+msgid "Primary color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:224
+msgid "Submenu Background Color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:248
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:522
+msgid "Heading color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:272
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:414
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:546
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:699
+msgid "Text color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:296
+msgid "Link / accent color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:317
+msgid "Link / accent color hover"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:341
+msgid "Hero heading color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:365
+msgid "Hero text color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:390
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:498
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:651
+msgid "Background color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:438
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:570
+msgid "Link color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:462
+msgid "Link color hover"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:476
+msgid "Footer"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:478
+msgid "Customize the look & feel of your website footer."
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:594
+msgid "Footer Link Hover color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:608
+msgid "Built with WPCpet & WooCommerce"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:616
+msgid "Copyright"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:629
+msgid "Buttons"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:631
+msgid "Customize the look & feel of your website buttons."
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:675
+msgid "Background color hover"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:723
+msgid "Border color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:747
+msgid "Alternate button background color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:771
+msgid "Alternate button text color"
+msgstr ""
+
+#: wpcpet/inc/customizer/class-wpcpet-customizer.php:785
+msgid "Layout"
+msgstr ""
+
+#: wpcpet/inc/woocommerce/class-wpcpet-woocommerce.php:188
+msgid "breadcrumbs"
+msgstr ""
+
+#: wpcpet/inc/woocommerce/wpcpet-woocommerce-template-functions.php:83
+msgid "View your shopping cart"
+msgstr ""
+
+#: wpcpet/inc/woocommerce/wpcpet-woocommerce-template-functions.php:164
+msgid "Account"
+msgstr ""
+
+#: wpcpet/inc/woocommerce/wpcpet-woocommerce-template-functions.php:358
+msgid "Out of stock"
+msgstr ""
+
+#: wpcpet/inc/woocommerce/wpcpet-woocommerce-template-functions.php:396
+msgid "Sale"
+msgstr ""
+
+#: wpcpet/inc/woocommerce/wpcpet-woocommerce-template-functions.php:428
+msgid "Grid View"
+msgstr ""
+
+#: wpcpet/inc/woocommerce/wpcpet-woocommerce-template-functions.php:428
+msgid "List View"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-functions.php:241
+#. translators: %s: post title
+msgid "Read More %s"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:64
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:87
+msgid "Edit"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:219
+msgid "Primary Navigation"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:242
+msgid "Menu"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:258
+msgid "Handheld Navigation"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:326
+msgid "Category: "
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:328
+msgid "Blog"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:330
+msgid "Tag: "
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:332
+msgid "Author: "
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:334
+msgid "Year: "
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:336
+msgid "Month: "
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:338
+msgid "Day: "
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:341
+msgid "Our Shop"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:343
+msgid "Archives: %s"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:346
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:372
+msgid "Skip to navigation"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:374
+msgid "Skip to content"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:411
+#: wpcpet/inc/wpcpet-template-functions.php:479
+#: wpcpet/inc/wpcpet-template-functions.php:511
+msgid "Pages:"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:542
+#. translators: %s: post date
+msgid "Posted on"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:545
+#: wpcpet/inc/wpcpet-template-functions.php:591
+#: wpcpet/inc/wpcpet-template-functions.php:594
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:548
+#: wpcpet/inc/wpcpet-template-functions.php:600
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:575
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:606
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:638
+msgid "Next post:"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:639
+msgid "Previous post:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WPCpet"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpclever.net/downloads/wpcpet/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Launch a powerful, loving pet shop or a brand new animal store with the "
+"ready-to-use WooCommerce theme from WPClever. WPCpet is the latest theme in "
+"our theme series with strong WPC plugin integrations with floating buttons "
+"from WPC Smart Quick View, Smart Wishlist and Smart Compare. Users can also "
+"set up an interactive purchasing wall with shoppable images and various "
+"ultimate features made ready for use. Show the love and passion for special "
+"friends and lovely pets in the best possible way. Anything you will need to "
+"set up your store, we have included in WPCpet. Checkout the live demo: "
+"https://themes.wpclever.org/wpcpet/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""
+
+#: wpcpet/comments.php:31
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:334
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:336
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:338
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:624
+msgctxt "Next post"
+msgid "Next"
+msgstr ""
+
+#: wpcpet/inc/wpcpet-template-functions.php:625
+msgctxt "Previous post"
+msgid "Previous"
+msgstr ""

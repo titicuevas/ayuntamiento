@@ -1,0 +1,698 @@
+# Translation of Themes - Kindergarten Playgroup in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Kindergarten Playgroup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-18 22:12:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.8\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Kindergarten Playgroup\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Kindergarten Playgroup"
+msgstr "Kindergarten Playgroup"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Kindergarten Playgroup is a delightful and vibrant WordPress theme tailored specifically for websites related to kindergartens, playgroups, preschool, and early childhood education. The theme is a great solution for institutions related to children's education to create a stunning and vibrant online presence and showcase their campus and courses. The theme creates a visually engaging and playful environment that instantly appeals to kids and their parents. The theme exudes a cheerful atmosphere with its lively color palette consisting of bright hues such as sunshine yellow, grass green, sky blue, and bubblegum pink. The homepage of the Kindergarten Playgroup theme is designed to be captivating and interactive. The theme incorporates smooth animations and transitions throughout the website to keep children engaged and entertained. To further enhance the appeal to children, the theme offers engaging features like interactive sliders, image galleries, and video integration. The theme comes with all the necessary features to create a stunning website. It is fully responsive and cross-browser compatible and ensures that your website looks great on all devices and web browsers. It is also easy to install and use. With this theme, you won’t need to hire a web developer to create a website for you as you can create and launch your website by yourself. Moreover, the theme also comes with customization options to help you create a unique and personalized website."
+msgstr "Kindergarten Playgroup es un tema para WordPress encantador y vibrante, adaptado específicamente para sitios relacionados con jardines de infancia, grupos de juego, preescolar y educación infantil. El tema es una gran solución para las instituciones relacionadas con la educación infantil para crear una presencia en línea impresionante y vibrante y mostrar su campus y cursos. El tema crea un entorno visualmente atractivo y lúdico que atrae al instante a los niños y a sus padres. El tema desprende un ambiente alegre gracias a su paleta de colores vivos, con tonos brillantes como el amarillo sol, el verde hierba, el azul cielo y el rosa chicle. La página de inicio del tema Kindergarten Playgroup está diseñada para ser cautivadora e interactiva. El tema incorpora animaciones y transiciones suaves en todo el sitio para mantener a los niños atentos y entretenidos. Para aumentar aún más el atractivo para los niños, el tema ofrece características atractivas como carruseles interactivos, galerías de imágenes e integración de vídeo. El tema incluye todas las características necesarias para crear un sitio impresionante. Es totalmente adaptable y compatible con todos los navegadores y garantiza que tu sitio se vea perfectamente en todos los dispositivos y navegadores web. También es fácil de instalar y utilizar. Con este tema, no necesitarás contratar a un desarrollador web para que te cree un sitio, ya que puedes crearlo y lanzarlo tú mismo. Además, el tema también incluye opciones de personalización que te ayudarán a crear un sitio único y personalizado."
+
+#: inc/customizer.php:994
+msgid "Click Here"
+msgstr "Haz clic aquí"
+
+#: inc/customizer.php:993
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/customizer.php:98
+msgid "Show / Hide Sticky Header"
+msgstr "Mostrar / ocultar la cabecera fija"
+
+#: template-parts/footer/site-info.php:13
+msgid "By Themespride"
+msgstr "Por Themespride"
+
+#: inc/about-theme.php:294
+msgid "Go for Premium"
+msgstr "Hazte Premium"
+
+#: inc/about-theme.php:287
+msgid "Live Customizer"
+msgstr "Personalizador en vivo"
+
+#: inc/about-theme.php:282
+msgid "Responsive Design"
+msgstr "Diseño adaptable"
+
+#: inc/about-theme.php:277
+msgid "Unlimited Domains"
+msgstr "Dominios ilimitados"
+
+#: inc/about-theme.php:272
+msgid "Free updates"
+msgstr "Actualizaciones gratuitas"
+
+#: inc/about-theme.php:267
+msgid "Access to Support Forums"
+msgstr "Acceso a foros de soporte"
+
+#: inc/about-theme.php:262
+msgid "Premium Technical Support"
+msgstr "Soporte técnico premium"
+
+#: inc/about-theme.php:257
+msgid "Additional Plugins"
+msgstr "Plugins adicionales"
+
+#: inc/about-theme.php:252
+msgid "Multiple Sections"
+msgstr "Múltiples secciones"
+
+#: inc/about-theme.php:247
+msgid "Section Ordering"
+msgstr "Ordenación de secciones"
+
+#: inc/about-theme.php:242
+msgid "Included Demo Content"
+msgstr "Contenido de demostración incluido"
+
+#: inc/about-theme.php:237
+msgid "Additional Templates, Color options and Fonts"
+msgstr "Plantillas, opciones de color y fuentes adicionales"
+
+#: inc/about-theme.php:232
+msgid "Theme Demo Set Up"
+msgstr "Configuración de la demostración del tema"
+
+#: inc/about-theme.php:227
+msgid "Pro Theme"
+msgstr "Tema Pro"
+
+#: inc/about-theme.php:226
+msgid "Free Theme"
+msgstr "Tema gratuito"
+
+#: inc/about-theme.php:221
+msgid "View Free vs Pro Table below:"
+msgstr "Ver tabla gratuita contra Pro a continuación:"
+
+#: inc/about-theme.php:152
+msgid "View changelog below:"
+msgstr "Ve el registro de cambios a continuación:"
+
+#: inc/about-theme.php:136
+msgid "GETPro20"
+msgstr "GETPro20"
+
+#: inc/about-theme.php:135
+msgid "Get our amazing WordPress theme with exclusive 20% off use the coupon"
+msgstr "Consigue nuestro increíble tema para WordPress con 20 % de descuento exclusivos utilizando el cupón"
+
+#: inc/about-theme.php:134
+msgid "Upgrade To Premium With Straight 20% OFF."
+msgstr "Pásate a Premium con un descuento directo del 20 %."
+
+#: inc/about-theme.php:130
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/about-theme.php:129
+msgid "Get genuine support from genuine people. Whether it's customization or compatibility, our seasoned developers deliver tailored solutions to your queries."
+msgstr "Obtén asistencia genuina de gente genuina. Tanto si se trata de personalización como de compatibilidad, nuestros experimentados desarrolladores ofrecen soluciones a medida para tus consultas."
+
+#: inc/about-theme.php:128
+msgid "Got theme support question?"
+msgstr "¿Tiene alguna pregunta de soporte del tema?"
+
+#: inc/about-theme.php:124
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/about-theme.php:123
+msgid "All Theme Options are available via Customize screen."
+msgstr "Todas las opciones del tema están disponibles a través de la pantalla «Personalizar»."
+
+#: inc/about-theme.php:122
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#: inc/about-theme.php:108
+msgid "Go to Dashboard"
+msgstr "Ir al escritorio"
+
+#: inc/about-theme.php:108
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Ir al escritorio &rarr; Inicio"
+
+#: inc/about-theme.php:105
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Volver al escritorio &rarr; Actualizaciones"
+
+#: inc/about-theme.php:105
+msgid "Return to Updates"
+msgstr "Volver a Actualizaciones"
+
+#: inc/about-theme.php:91
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: inc/about-theme.php:89
+msgid "Compare free Vs Pro"
+msgstr "Comparar gratis contra Pro"
+
+#: inc/about-theme.php:87
+msgid "About"
+msgstr "Acerca de"
+
+#: inc/about-theme.php:86
+msgid "Secondary menu"
+msgstr "Menú secundario"
+
+#: inc/about-theme.php:76
+msgid "Upgrade to pro"
+msgstr "Mejorar a pro"
+
+#: inc/about-theme.php:74
+msgid "Rate this theme"
+msgstr "Valora este tema"
+
+#: inc/about-theme.php:72
+msgid "Theme Instructions"
+msgstr "Instrucciones del tema"
+
+#: inc/about-theme.php:70
+msgid "View Demo"
+msgstr "Ver demostración"
+
+#: inc/about-theme.php:68
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/about-theme.php:42
+msgid "About Theme"
+msgstr "Sobre el tema"
+
+#: functions.php:233
+msgid "Kindergarten WordPress Theme"
+msgstr "Tema Kindergarten para WordPress"
+
+#: functions.php:214
+msgid "Get started"
+msgstr "Primeros pasos"
+
+#: functions.php:212
+msgid "Click here to get started with the theme set-up."
+msgstr "Haz clic aquí para empezar a configurar el tema."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: functions.php:208
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s!"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Debes acceder para realizar el pago."
+
+#: template-parts/post/single-post.php:47
+msgid "Previous:"
+msgstr "Anterior:"
+
+#: template-parts/post/single-post.php:45
+msgid "Next:"
+msgstr "Siguiente:"
+
+#: template-parts/post/single-post.php:40
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicado en</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%s\">Empieza aquí</a>."
+
+#: template-parts/post/content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/post/content-audio.php:43
+#: template-parts/post/content-gallery.php:32
+#: template-parts/post/content-grid.php:28
+#: template-parts/post/content-image.php:29
+#: template-parts/post/content-video.php:43 template-parts/post/content.php:29
+#: template-parts/post/single-post.php:20
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: template-parts/post/content-audio.php:43
+#: template-parts/post/content-gallery.php:32
+#: template-parts/post/content-grid.php:28
+#: template-parts/post/content-image.php:29
+#: template-parts/post/content-video.php:43 template-parts/post/content.php:29
+#: template-parts/post/single-post.php:20
+msgid "0 Comments"
+msgstr "0 comentarios"
+
+#: template-parts/page/content-page.php:22
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/navigation/site-nav.php:23
+msgid "Close Button"
+msgstr "Botón de cerrar"
+
+#: template-parts/navigation/site-nav.php:13
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: template-parts/navigation/site-nav.php:10
+msgid "Open Button"
+msgstr "Botón de apertura"
+
+#: template-parts/home/slider.php:44
+msgid "Book Appointment"
+msgstr "Reservar"
+
+#: template-parts/home/classes.php:60
+msgid "$"
+msgstr "€"
+
+#: template-parts/home/classes.php:55
+msgid "Time: "
+msgstr "Hora: "
+
+#: template-parts/home/classes.php:52
+msgid "Age: "
+msgstr "Edad: "
+
+#: template-parts/footer/footer-widgets.php:11
+msgid "Footer"
+msgstr "Pie de página"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: inc/customizer.php:981
+msgid "Upgrade Pro"
+msgstr "Actualizar Pro"
+
+#: inc/customizer.php:899
+msgid "Kindergarten Playgroup Pro"
+msgstr "Kindergarten Playgroup Pro"
+
+#: inc/customizer.php:854
+msgid "Show / Hide Product page sidebar"
+msgstr "Mostrar u ocultar la barra lateral de la página de producto"
+
+#: inc/customizer.php:841
+msgid "Show / Hide Shop page sidebar"
+msgstr "Mostrar u ocultar la barra lateral de la página de la tienda"
+
+#: inc/customizer.php:829
+msgid "Product Per Page"
+msgstr "Productos por página"
+
+#: inc/customizer.php:819
+msgid "Product Per Row"
+msgstr "Producto por fila"
+
+#: inc/customizer.php:810
+msgid "Same Line"
+msgstr "Misma línea"
+
+#: inc/customizer.php:809
+msgid "Different Line"
+msgstr "Línea diferente"
+
+#: inc/customizer.php:806
+msgid "Here you have two options 1. Logo and Site tite in differnt line. 2. Logo and Site title in same line."
+msgstr "Aquí tienes dos opciones 1. Logotipo y sitio web en línea diferente. 2. Logotipo y título del sitio en la misma línea."
+
+#: inc/customizer.php:805
+msgid "Logo Layout Settings"
+msgstr "Ajustes del diseño del logotipo"
+
+#: inc/customizer.php:794
+msgid "Here You Can Customize Your Logo Size"
+msgstr "Aquí puedes personalizar el tamaño de tu logotipo"
+
+#: inc/customizer.php:738
+msgid "Show / Hide Site Title"
+msgstr "Mostrar u ocultar el título del sitio"
+
+#: inc/customizer.php:117 inc/customizer.php:147 inc/customizer.php:697
+msgid "Show / Hide Return to header"
+msgstr "Mostrar u ocultar «Volver a la cabecera»"
+
+#: inc/customizer.php:666
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/customizer.php:656
+msgid "Add copyright text."
+msgstr "Añade el texto del copyright."
+
+#: inc/customizer.php:655
+msgid "Footer Text"
+msgstr "Texto de pie de página"
+
+#: inc/customizer.php:649
+msgid "Select Category"
+msgstr "Selecciona una categoría"
+
+#: inc/customizer.php:625
+msgid "Add Heading"
+msgstr "Añadir encabezado"
+
+#: inc/customizer.php:615
+msgid "Add short Heading"
+msgstr "Añadir título corto"
+
+#: inc/customizer.php:605
+msgid "Classes Section"
+msgstr "Sección «Clases»"
+
+#: inc/customizer.php:596
+msgid "Add Text "
+msgstr "Añadir texto "
+
+#: inc/customizer.php:586
+msgid "Add Title "
+msgstr "Añadir Título "
+
+#: inc/customizer.php:576
+msgid "Add icon "
+msgstr "Añadir icono "
+
+#: inc/customizer.php:564
+msgid "Counter Section"
+msgstr "Sección del contador"
+
+#: inc/customizer.php:556
+msgid "Image Size ( 1835 x 700 ) px"
+msgstr "Tamaño de la imagen (1835 x 700 px)"
+
+#: inc/customizer.php:555
+msgid "Select Slide Image Page"
+msgstr "Seleccionar página de imágenes de diapositivas"
+
+#: inc/customizer.php:541
+msgid "Show / Hide slider"
+msgstr "Mostrar u ocultar control del carrusel"
+
+#: inc/customizer.php:530
+msgid "Slider Section"
+msgstr "Sección del carrusel"
+
+#: inc/customizer.php:522
+msgid "YouTube Link"
+msgstr "Enlace de YouTube"
+
+#: inc/customizer.php:500
+msgid "Instagram Link"
+msgstr "Enlace de Instagram"
+
+#: inc/customizer.php:478
+msgid "Twitter Link"
+msgstr "Enlace de Twitter"
+
+#: inc/customizer.php:452
+msgid "Facebook Link"
+msgstr "Enlace de Facebook"
+
+#: inc/customizer.php:431
+msgid "Add your Social Links"
+msgstr "Añade tus enlaces sociales"
+
+#: inc/customizer.php:429
+msgid "Social Media Links"
+msgstr "Enlaces de redes sociales"
+
+#: inc/customizer.php:422
+msgid "Add Button URL"
+msgstr "Añadir URL del botón"
+
+#: inc/customizer.php:412
+msgid "Add Button Text"
+msgstr "Añadir texto del botón"
+
+#: inc/customizer.php:403
+msgid "Add your contact details"
+msgstr "Añade tus datos de contacto"
+
+#: inc/customizer.php:401
+msgid "Header Details"
+msgstr "Detalles de la cabecera"
+
+#: inc/customizer.php:337
+msgid "Edit Excerpt Limit"
+msgstr "Editar límite del extracto"
+
+#: inc/customizer.php:324
+msgid "Edit Button Text"
+msgstr "Editar texto del botón"
+
+#: inc/customizer.php:320 template-parts/post/content-audio.php:49
+#: template-parts/post/content-gallery.php:38
+#: template-parts/post/content-grid.php:34
+#: template-parts/post/content-image.php:35
+#: template-parts/post/content-video.php:49 template-parts/post/content.php:35
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/customizer.php:313
+msgid "Show / Hide Read More Button"
+msgstr "Mostrar u ocultar el botón «Leer más»"
+
+#: inc/customizer.php:301
+msgid "Show / Hide Tags Option"
+msgstr "Opción para mostrar u ocultar las etiquetas"
+
+#: inc/customizer.php:289
+msgid "Show / Hide Comment Option"
+msgstr "Opción mostrar u ocultar los comentario"
+
+#: inc/customizer.php:277
+msgid "Show / Hide Author Option"
+msgstr "Opción para mostrar u ocultar el autor"
+
+#: inc/customizer.php:264
+msgid "Show / Hide Date Option"
+msgstr "Opción para mostrar u ocultar la fecha"
+
+#: inc/customizer.php:253
+msgid "TP Blog Option"
+msgstr "TP Opciones del blog"
+
+#: inc/customizer.php:360
+msgid "Show / Hide Preloader Option"
+msgstr "Opción para mostrar u ocultar el precargador"
+
+#: inc/customizer.php:83
+msgid "This option work for pages."
+msgstr "Esta opción funciona para las páginas."
+
+#: inc/customizer.php:82
+msgid "Page Sidebar Position"
+msgstr "Posición de la barra lateral de la página"
+
+#: inc/customizer.php:71
+msgid "Grid Layout"
+msgstr "Diseño de cuadrícula"
+
+#: inc/customizer.php:70
+msgid "Four Columns"
+msgstr "Cuatro columnas"
+
+#: inc/customizer.php:69
+msgid "Three Columns"
+msgstr "Tres columnas"
+
+#: inc/customizer.php:68 inc/customizer.php:88 inc/customizer.php:714
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:67 inc/customizer.php:87 inc/customizer.php:715
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:49 inc/customizer.php:66 inc/customizer.php:86
+msgid "Full"
+msgstr "Completo"
+
+#: inc/customizer.php:63
+msgid "This option work for blog page, blog single page, archive page and search page."
+msgstr "Esta opción funciona para la página del blog, la página individual del blog, la página de archivo y la página de búsqueda."
+
+#: inc/customizer.php:62
+msgid "Theme Sidebar Position"
+msgstr "Posición de la barra lateral del tema"
+
+#: inc/customizer.php:32
+msgid "TP General Option"
+msgstr "TP Opciones generales"
+
+#: inc/customizer.php:27
+msgid "Description of what this panel does."
+msgstr "Descripción de lo que hace este panel."
+
+#: inc/customizer.php:26
+msgid "Custom Home page"
+msgstr "Página de inicio personalizada"
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:421
+msgid "Video URL"
+msgstr "URL del vídeo"
+
+#: functions.php:413
+msgid "Price"
+msgstr "Precio"
+
+#: functions.php:405
+msgid "Timmings"
+msgstr "Horarios"
+
+#: functions.php:397
+msgid "Age Criteria"
+msgstr "Criterios de edad"
+
+#: functions.php:377
+msgid "Classes Details"
+msgstr "Detalles de las clases"
+
+#: functions.php:142
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:132
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:122
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:114 functions.php:124 functions.php:134 functions.php:144
+msgid "Add widgets here to appear in your footer."
+msgstr "Añade aquí los widgets que quieres que aparezcan en tu pie de página."
+
+#: functions.php:112
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:102
+msgid "Sidebar 3"
+msgstr "Barra Lateral 3"
+
+#: functions.php:94
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr "Añade widgets aquí para que aparezcan en tu barra lateral en las páginas."
+
+#: functions.php:92
+msgid "Page Sidebar"
+msgstr "Barra lateral de la página"
+
+#: functions.php:84 functions.php:104
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Añade widgets aquí para que aparezcan en su barra lateral en las entradas del blog y las páginas de archivo."
+
+#: functions.php:82 sidebar.php:10
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: functions.php:26
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:61
+msgid "Next"
+msgstr "Siguiente"
+
+#: comments.php:60
+msgid "Previous"
+msgstr "Anterior"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s respuesta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respuestas a &ldquo;%2$s&rdquo;"
+
+#: archive.php:56 archive.php:94 archive.php:131 archive.php:168
+#: archive.php:207 archive.php:246 archive.php:284 index.php:47 index.php:85
+#: index.php:121 index.php:157 index.php:196 index.php:235 index.php:273
+#: single.php:32 single.php:57 single.php:81 single.php:105 single.php:131
+#: single.php:157 single.php:182
+msgid "Page"
+msgstr "Página"
+
+#: archive.php:55 archive.php:93 archive.php:130 archive.php:167
+#: archive.php:206 archive.php:245 archive.php:283 index.php:46 index.php:84
+#: index.php:120 index.php:156 index.php:195 index.php:234 index.php:272
+#: single.php:31 single.php:56 single.php:80 single.php:104 single.php:130
+#: single.php:156 single.php:181
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: archive.php:54 archive.php:92 archive.php:129 archive.php:166
+#: archive.php:205 archive.php:244 archive.php:282 index.php:45 index.php:83
+#: index.php:119 index.php:155 index.php:194 index.php:233 index.php:271
+#: single.php:30 single.php:55 single.php:79 single.php:103 single.php:129
+#: single.php:155 single.php:180
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en esta dirección. ¿Quieres probar con una búsqueda?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themespride.com/"
+msgstr "https://www.themespride.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemesPride"
+msgstr "ThemesPride"
+
+#. Theme URI of the theme
+#: functions.php:230
+#, gp-priority: low
+msgid "https://www.themespride.com/themes/free-Kindergarten-wordpress-theme/"
+msgstr "https://www.themespride.com/themes/free-Kindergarten-wordpress-theme/"
